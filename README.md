@@ -1,6 +1,6 @@
 ### Hi there, I'm Vojin 👋
 
-[https://vojinpuric.me][website]
+[https://vojinpuric.xyz][website]
 
 [![SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16547945?theme=cobalt)](https://stackoverflow.com/users/16547945/vojin-puri%c4%87)
 
